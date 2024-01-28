@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2024-01-28 21:34:04
+/* Smarty version 3.1.33, created on 2024-01-28 22:29:30
   from 'C:\xampp\htdocs\PRESTA\modules\subcategory\views\templates\hook\slider.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_65b6ba3c2a47f9_55284131',
+  'unifunc' => 'content_65b6c73abbe427_33146701',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_65b6ba3c2a47f9_55284131 (Smarty_Internal_Template $_smarty_tpl) {
+function content_65b6c73abbe427_33146701 (Smarty_Internal_Template $_smarty_tpl) {
 ?><link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
 <?php echo '<script'; ?>
  src="https://unpkg.com/swiper@8/swiper-bundle.min.js"><?php echo '</script'; ?>

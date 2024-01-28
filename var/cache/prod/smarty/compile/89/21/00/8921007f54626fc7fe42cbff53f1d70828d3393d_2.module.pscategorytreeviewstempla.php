@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2024-01-28 21:34:04
+/* Smarty version 3.1.33, created on 2024-01-28 22:29:34
   from 'module:pscategorytreeviewstempla' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_65b6ba3c636457_07420211',
+  'unifunc' => 'content_65b6c73e687393_61466441',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,13 +20,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_65b6ba3c636457_07420211 (Smarty_Internal_Template $_smarty_tpl) {
+function content_65b6c73e687393_61466441 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'categories' => 
   array (
     'compiled_filepath' => 'C:\\xampp\\htdocs\\PRESTA\\var\\cache\\prod\\smarty\\compile\\89\\21\\00\\8921007f54626fc7fe42cbff53f1d70828d3393d_2.module.pscategorytreeviewstempla.php',
     'uid' => '8921007f54626fc7fe42cbff53f1d70828d3393d',
-    'call_name' => 'smarty_template_function_categories_176905819565b6ba3c62d372_44521326',
+    'call_name' => 'smarty_template_function_categories_143555824965b6c73e67a155_50710716',
   ),
 ));
 ?>
@@ -42,9 +42,9 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
   </ul>
 </div>
 <?php }
-/* smarty_template_function_categories_176905819565b6ba3c62d372_44521326 */
-if (!function_exists('smarty_template_function_categories_176905819565b6ba3c62d372_44521326')) {
-function smarty_template_function_categories_176905819565b6ba3c62d372_44521326(Smarty_Internal_Template $_smarty_tpl,$params) {
+/* smarty_template_function_categories_143555824965b6c73e67a155_50710716 */
+if (!function_exists('smarty_template_function_categories_143555824965b6c73e67a155_50710716')) {
+function smarty_template_function_categories_143555824965b6c73e67a155_50710716(Smarty_Internal_Template $_smarty_tpl,$params) {
 $params = array_merge(array('nodes'=>array(),'depth'=>0), $params);
 foreach ($params as $key => $value) {
 $_smarty_tpl->tpl_vars[$key] = new Smarty_Variable($value, $_smarty_tpl->isRenderingCache);
@@ -73,5 +73,5 @@ foreach ($_from as $_smarty_tpl->tpl_vars['node']->value) {
 }
 $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?></ul><?php }
 }}
-/*/ smarty_template_function_categories_176905819565b6ba3c62d372_44521326 */
+/*/ smarty_template_function_categories_143555824965b6c73e67a155_50710716 */
 }
