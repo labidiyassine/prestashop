@@ -2247,6 +2247,7 @@ class FrontContainer extends Container
                 60 => 'psxmarketingwithgoogle',
                 61 => 'blockreassurance',
                 62 => 'ps_facetedsearch',
+                63 => 'subcategory',
             ],
             'ps_cache_dir' => 'C:\\xampp\\htdocs\\PRESTA/var/cache/prod\\',
             'mail_themes_uri' => '/mails/themes',
