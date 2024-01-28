@@ -2,3 +2,9 @@
  * Custom code goes here.
  * A template should always ship with an empty custom.css
  */
+ .popover.sub-menu {
+    top: 40px !important;
+    left: 0 !important;
+    will-change: transform;
+    transform: translate3d(0, 0, 0);
+  }
